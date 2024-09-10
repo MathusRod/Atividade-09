@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2016", // Define a versão ES6 como target
+    "lib": ["es2016", "dom"], // Inclui ES6 e DOM para navegador
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "removeComments": true,
+    "strictPropertyInitialization": false
+  }
+}
